@@ -13,8 +13,9 @@ To create a procedure using PL/SQL.
 6. Display the employee table
 
 ### Program:
-'''
-CREATE TABLE ep1(
+
+
+  CREATE TABLE ep1(
        empid NUMBER,
        
        empname VARCHAR(10),
