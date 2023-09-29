@@ -15,7 +15,6 @@ To create a procedure using PL/SQL.
 ### Program:
 
 CREATE TABLE ep1(
-
        empid NUMBER,
        
        empname VARCHAR(10),
