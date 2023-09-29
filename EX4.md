@@ -13,7 +13,7 @@ To create a procedure using PL/SQL.
 6. Display the employee table
 
 ### Program:
-/
+'''
 CREATE TABLE ep1(
        empid NUMBER,
        
